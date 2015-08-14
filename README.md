@@ -1,6 +1,6 @@
-# mkcstr
+# mkcres
 Create a header file containing string resources of files
 
-Compile with gcc -Wall -Wextra -pedantic -Os -o mkcstr main.c
+Compile with gcc -Wall -Wextra -pedantic -Os -o mkcres main.c
 
-For usage do mkcstr --help od mkcstr -h
+For usage do mkcres --help od mkcres -h
