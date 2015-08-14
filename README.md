@@ -1,5 +1,5 @@
 # mkcres
-Create a header file containing string resources of files
+MaKe a C header containing binary RESources like images
 
 Compile with gcc -Wall -Wextra -pedantic -Os -o mkcres main.c
 
